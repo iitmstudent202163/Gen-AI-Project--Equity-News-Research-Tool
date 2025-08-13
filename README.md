@@ -3,7 +3,8 @@
 A Generative AI-powered application for effortless financial news analysis.  
 This tool fetches equity/stock market-related articles from URLs, processes them with **LangChain**, generates embeddings using **OpenAI**, and enables quick, relevant information retrieval using **FAISS**.  
 Users can input queries and receive precise, context-rich answers along with source URLs.
-
+## 📸 Screenshot
+!(assests/Screenshot.png)
 ---
 
 ## 🚀 Features
