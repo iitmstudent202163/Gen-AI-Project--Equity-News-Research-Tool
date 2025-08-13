@@ -42,8 +42,8 @@ Users can input queries and receive precise, context-rich answers along with sou
 
 ---
 ## Project Structure
--main.py: The main Streamlit application script.
--requirements.txt: A list of required python packages for the project.
--index.faiss: Binary FAISS index storing embeddings.
--index.pkl: Pickle file storing metadata for each embedding.
--.env: Configuration file for storing your OpenAI API key.
+- **main.py**: The main Streamlit application script.
+- **requirements.txt**: A list of required python packages for the project.
+- **index.faiss**: Binary FAISS index storing embeddings.
+- **index.pkl**: Pickle file storing metadata for each embedding.
+- **.env**: Configuration file for storing your OpenAI API key.
